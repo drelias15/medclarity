@@ -22,3 +22,6 @@ LLM Processing: The enriched query, along with retrieved context, is passed to t
 Response Generation: The LLM generates a comprehensive response that addresses the user's query, potentially including cost estimates, billing explanations, or additional resources.
 
 Response Delivery: The system delivers the generated response to the user through the chosen user interface.
+
+Disclaimer: This virtual assistant is intended for informational purposes only and should not be used as a substitute for professional medical advice. It is crucial to consult with a healthcare provider for personalized information about medical costs and billing procedures.
+
