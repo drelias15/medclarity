@@ -1,7 +1,6 @@
 Project Name: MedClarity 
 
-Description:
-This project creates a virtual assistant powered by a large language model (LLM) to provide clarity and information on medical billing and costs. The system leverages Retrieval-Augmented Generation (RAG) to enhance the LLM's understanding of user queries before generating informative responses.
+Description: This project creates a virtual assistant powered by a large language model (LLM) to provide clarity and information on medical billing and costs. The system leverages Retrieval-Augmented Generation (RAG) to enhance the LLM's understanding of user queries before generating informative responses.
 
 Key Features:
 RAG-based LLM: User queries are directed to a pre-trained RAG vector table for additional context, improving the LLM's comprehension of medical billing terminology and processes.
